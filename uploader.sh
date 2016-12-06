@@ -6,7 +6,7 @@
 # 页面：http://kindlefere.com/post/19.html
 # ------------------------------------------
 
-if [ ! -d "./KindleEar" ]
+if [ ! -d "./WoodEar" ]
 then
     git clone https://github.com/cdhigh/KindleEar.git
 fi
