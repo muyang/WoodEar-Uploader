@@ -4,7 +4,7 @@
 
 ```
 wget https://raw.githubusercontent.com/kindlefere/KindleEar-Uploader/master/uploader.sh && \
-wget https://github.com/muyang/WoodEar-Uploader/master/uploader.sh &&
+wget https://github.com/muyang/WoodEar-Uploader/master/push.sh &&
 chmod +x uploader.sh && \
 ./uploader.sh
 ```
