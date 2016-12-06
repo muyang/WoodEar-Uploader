@@ -11,7 +11,7 @@ then
     git clone https://github.com/cdhigh/KindleEar.git
 fi
 
-cd KindleEar
+cd WoodEar
 
 cemail=$(sed -n "s/^SRC_EMAIL = \"\(.*\)\".*#.*/\1/p" ./config.py)
 cappid=$(sed -n "s/^DOMAIN = \"https:\/\/\(.*\)\.appspot.com\".*#.*/\1/p" ./config.py)
